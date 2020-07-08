@@ -7,9 +7,9 @@ When I was done school I moved to Vancouver to work at a greentech startup then 
 
 I went to work with him on [MapDash](http://mapdash.com/). While we worked together I had the idea for “notification-based publishing” for Instagram and we made “latergram” at a hackathon in late 2013.
 
-We launched “latergramme” in spring 2014 and the founders went full-time on it in early 2015. The rest is in my GIT commit logs.
+We launched “latergramme” in spring 2014 and the founders went full-time on it in early 2015 which was rebranded to [Later](https://later.com) in spring 2016. The rest is in my GIT commit logs.
 
-I’ve also been an Instructor at Lighthouse Labs (both web and iOS) and am a pretty big hackathon enthusiast.
+I’ve also been an Instructor at [Lighthouse Labs](https://www.lighthouselabs.ca/) (both web and iOS) and am a pretty big hackathon enthusiast.
 
 ## Skillset
 
