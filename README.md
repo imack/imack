@@ -5,7 +5,7 @@ My master’s thesis was about [using Wikipedia to better extract info for quest
 
 When I was done school I moved to Vancouver to work at a greentech startup then at [SAP](https://sap.com/) before starting my own startup at the (now defunct) [Growlab accelerator](https://biv.com/article/2014/08/vancouvers-growlab-merges-with-toronto-start-up-ac). That startup was a geo-local-mobile one (all the rage in 2011) which failed.
 
-I went to work with him on [MapDash](http://mapdash.com/). While we worked together I had the idea for “notification-based publishing” for Instagram and we made “latergram” at a hackathon in late 2013.
+While working on [MapDash](http://mapdash.com/), we started on a notification-based publishing solution for Instagram and we made “latergram” at a hackathon in late 2013.
 
 We launched “latergramme” in spring 2014 and the founders went full-time on it in early 2015 which was rebranded to [Later](https://later.com) in spring 2016. The rest is in my GIT commit logs.
 
