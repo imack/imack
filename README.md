@@ -19,7 +19,7 @@ I’ve also been an Instructor at [Lighthouse Labs](https://www.lighthouselabs.c
 
 ## Publications
 * MacKinnon, Ian & Smith, Matthew Robert & Patterson, Roger, "METHOD AND SYSTEM FOR FACILITATING PUBLICATION OF A MEDIA FILE AT A SCHEDULED TIME", Canadian Patent 2882836, issued January 17, 2017
-* Clarke, Charles & Kolla, Maheedhar & Cormack, Gordon & Vechtomova, Olga & Ashkan, Azin & Büttcher, Stefan & MacKinnon, Ian. (2008). [Novelty and diversity in information retrieval evaluation]https://dl.acm.org/doi/10.1145/1390334.1390446). Proc. of the 31st ACM SIGIR. 659-666.
+* Clarke, Charles & Kolla, Maheedhar & Cormack, Gordon & Vechtomova, Olga & Ashkan, Azin & Büttcher, Stefan & MacKinnon, Ian. (2008). [Novelty and diversity in information retrieval evaluation](https://dl.acm.org/doi/10.1145/1390334.1390446). Proc. of the 31st ACM SIGIR. 659-666.
 * MacKinnon, Ian & Vechtomova, Olga. (2008). [Improving Complex Interactive Question Answering with Wikipedia Anchor Text](https://link.springer.com/chapter/10.1007/978-3-540-78646-7_41). ECIR 2008: Advances in Information Retrieval 438-445
 * MacKinnon, Ian & Warren, Robert (2006). [Age and Geographic Inferences of the LiveJournal Social Network](https://link.springer.com/chapter/10.1007%2F978-3-540-73133-7_14). Statistical Network Analysis: Models, Issues, and New Directions: ICML 2006 Workshop on Statistical Network Analysis
 
