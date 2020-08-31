@@ -3,7 +3,7 @@ Originally from Whitby, Ontario, I went to the University of Waterloo for my und
 
 When I was done school I moved to Vancouver to work at a greentech startup then at [SAP](https://sap.com/) before starting my own startup at the (now defunct) [Growlab accelerator](https://biv.com/article/2014/08/vancouvers-growlab-merges-with-toronto-start-up-ac). That startup was a geo-local-mobile one (all the rage in 2011) which failed. After that, I started working on [MapDash](http://mapdash.com/) as tech lead. While working on MapDash, we started on a notification-based publishing solution for Instagram and we made “latergram” at a hackathon in late 2013.
 
-We launched “latergramme” in spring 2014 and the founders went full-time on it in early 2015 which was rebranded to [Later](https://later.com) in spring 2016. Later raised $1.5MM in 2015 and has grown to over 100 employees, tens of thousands of paying customers, and ranks around #1500 in Alexa's US Website Ranking.
+We launched “latergramme” in spring 2014 and the founders went full-time on it in early 2015 which was rebranded to [Later](https://later.com) in spring 2016. Later raised $1.5MM in 2015 and has grown to over 100 employees, over a hundred thousand paying customers, and ranks around #1500 in Alexa's US Website Ranking.
 
 I’ve also been an Instructor at [Lighthouse Labs](https://www.lighthouselabs.ca/) (both web and iOS) and am a pretty big hackathon enthusiast.
 
